@@ -57,7 +57,7 @@ myllm = "^1.2.15"
 
 [tool.poetry.group.dev.dependencies]
 # python-semantic-release = "^8.0.3"
-python-semantic-release = "^7.34.6"
+python-semantic-release = "^8.0.7"
 ruff = "^0.0.284"
 
 [tool.ruff]
